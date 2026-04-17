@@ -14,7 +14,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   &nbsp;&nbsp;
-  <a href="">
+  <a href="https://www.instagram.com/adityaganji889">
     <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
 </p>
