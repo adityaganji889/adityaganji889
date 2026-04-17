@@ -52,7 +52,7 @@
 </div>
 
 <!-- <p><img align="center" src="https://leetcode.card.workers.dev/adityaganji889?theme=white&font=baloo" alt="adityaganji889" />   </p>   -->
-<br>
+<!-- <br>
 <p> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaganji889&show_icons=true&locale=en" alt="adityaganji889" />    </p> 
 
 <p><br></p>  
@@ -60,4 +60,22 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaganji889&" alt="adityaganji889"/></p>  
 <p> 
 &nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaganji889&show_icons=true&locale=en&layout=compact" alt="adityaganji889" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaganji889&show_icons=true&locale=en&layout=compact" alt="adityaganji889" /></p> -->
+<br>
+<table align="center">
+  <tr>
+    <td>
+      <p>
+        &nbsp;
+        <img align="center"
+          src="https://github-readme-stats-three-sage-20.vercel.app/api/top-langs?username=adityaganji889&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true"
+          alt="adityaganji889" />
+      </p>
+    </td>
+    <td>
+      <p align="center"><a href="https://git.io/streak-stats"><img
+      src="https://github-readme-streak-stats.herokuapp.com?user=adityaganji889&theme=react&hide_border=true&include_all_commits=true"
+      alt="GitHub Streak" /></a></p>
+    </td>
+  </tr>
+</table>
