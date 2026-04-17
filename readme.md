@@ -36,7 +36,7 @@
 
   <div>
     <b>Front End Web Development:</b>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,react,angular,redux,ts" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,react,next,angular,redux,ts" />
   </div>
 
   <div>
