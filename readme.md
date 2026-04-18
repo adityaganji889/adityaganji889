@@ -10,11 +10,11 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-ganji-40725b1b2">
+  <a href="https://www.linkedin.com/in/aditya-ganji-40725b1b2" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/adityaganji889">
+  <a href="https://www.instagram.com/adityaganji889" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
 </p>
