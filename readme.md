@@ -31,7 +31,7 @@
 
   <div>
     <b>Databases:</b>
-    <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,sqlite,postgres" />
   </div>
 
   <div>
