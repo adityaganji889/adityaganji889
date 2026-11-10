@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **MERN Stack, Spring Framework, .NET Framework, Django Framework**.
 
-- 📫 How to reach me **adityaganji889@gmail.com**.
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
@@ -18,6 +16,14 @@
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/adityaganji889" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:adityaganji889@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.leetcode.com/adityaganji889" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="48" width="48">
   </a>
 </p>
 
