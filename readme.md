@@ -39,6 +39,7 @@
 
   <div>
     <b>Databases:</b>
+    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" height="48" width="48" />
     <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,sqlite,postgres" />
   </div>
 
