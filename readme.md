@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, Myself Aditya Ganji</h1>
 <h3 align="center">A Practical Full Stack Developer from India</h3>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=900&height=50&lines=Building+Enterprise+Full+Stack+Java%2C+C%23+Applications+with+AI+capabilities." />
+
 - 🌱 I’m currently learning **Gen AI and LLMs**.
 
 - 💬 Ask me about **MERN Stack, Spring Framework, .NET Framework, Django Framework**.
