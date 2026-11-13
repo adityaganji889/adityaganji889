@@ -3,7 +3,7 @@
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=adityaganji889&color=green alt=adityaganji889/> </p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=900&height=50&lines=Building+Enterprise+Full+Stack+Java%2C+C%23+Applications+with+AI+capabilities." />
 
-- 🌱 I’m currently learning **Gen AI and LLMs**.
+- 🌱 I’m currently learning, exploring, adapting to **Gen AI, LLMs, RAG**.
 
 - 💬 Ask me about **MERN Stack, Spring Framework, .NET Framework, Django Framework**.
 
