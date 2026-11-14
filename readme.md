@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Myself Aditya Ganji</h1>
-<h3 align="center">A Practical Full Stack Developer from India</h3>
+<h1 align="center">Hi 👋, Myself Aditya Ganji.</h1>
+<h3 align="center">A Practical Full Stack Developer from India.</h3>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=adityaganji889&color=green alt=adityaganji889/> </p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=900&height=50&lines=Building+Enterprise+Full+Stack+Java%2C+C%23+Applications+with+AI+capabilities." />
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN Stack, Spring Framework, .NET Framework, Django Framework**.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Can reach me via:</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-ganji-40725b1b2" target="_blank">
