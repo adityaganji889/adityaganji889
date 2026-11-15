@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning, exploring, adapting to **Gen AI, LLMs, RAG**.
 
-- 💬 Ask me about **MERN Stack, Spring Framework, .NET Framework, Django Framework**.
+- 💬 Can ask me about **MERN Stack, Spring Framework, .NET Framework, Django Framework**.
 
 <h3 align="left">Can reach me via:</h3>
 
